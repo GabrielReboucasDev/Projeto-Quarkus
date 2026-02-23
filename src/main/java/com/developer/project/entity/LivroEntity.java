@@ -31,5 +31,5 @@ public class LivroEntity extends PanacheEntityBase {
 	public LocalDate dataLeitura;
 	public Integer avaliacao;
 	public String observacoes;
-	
+
 }
