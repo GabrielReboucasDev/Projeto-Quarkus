@@ -21,12 +21,12 @@ Este projeto foi desenvolvido para aprimorar os conhecimentos em:
 
 ## Estrutura do Projeto
 O projeto segue a estrutura do **Quarkus**, com as seguintes dependências principais:
-- **quarkus-resteasy** – Para criação da API REST.
-- **quarkus-resteasy-jackson** – Para serialização/desserialização JSON.
-- **quarkus-hibernate-orm-panache** – Para persistência simplificada com Hibernate.
-- **quarkus-jdbc-h2** – Banco de dados em memória.
-- **quarkus-smallrye-openapi** – Para documentação da API via Swagger UI.
-- **quarkus-hibernate-validator** – Para validação de dados.
+- **Quarkus-resteasy** – Para criação da API REST.
+- **Quarkus-resteasy-jackson** – Para serialização/desserialização JSON.
+- **Quarkus-hibernate-orm-panache** – Para persistência simplificada com Hibernate.
+- **Quarkus-jdbc-h2** – Banco de dados em memória.
+- **Quarkus-smallrye-openapi** – Para documentação da API via Swagger UI.
+- **Quarkus-hibernate-validator** – Para validação de dados.
 - **Lombok** – Para redução de código boilerplate.
 
 ## Como Utilizar
